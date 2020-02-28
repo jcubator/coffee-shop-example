@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="groups">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="License" />
+            <item index="1" class="java.lang.String" itemvalue="Tiff" />
+            <item index="2" class="java.lang.String" itemvalue="Gif" />
+            <item index="3" class="java.lang.String" itemvalue="Psd" />
+            <item index="4" class="java.lang.String" itemvalue="Multithreading" />
+            <item index="5" class="java.lang.String" itemvalue="Release18_12_Retest" />
+            <item index="6" class="java.lang.String" itemvalue="SlowTest" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
